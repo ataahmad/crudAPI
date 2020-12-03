@@ -8,7 +8,7 @@ I also used POSTMAN for testing the functionality, so I recommend using that for
 
 the objects it is set up for are of the form:
 {
-  "firstName": <string>,
-  "lastName": <string>,
-  "age": <int>
+  "firstName": string,
+  "lastName": string,
+  "age": int
 }
